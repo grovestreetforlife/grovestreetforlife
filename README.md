@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://career.habr.com/grovestreetforlife" target="_blank">Roman</a> 
+<h1 align="center">Welcome to <a href="https://career.habr.com/grovestreetforlife" target="_blank">Habr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&background=D8FF4E00&center=true&random=false&width=535&height=60&lines=Golang+developer" alt="Typing SVG" /></a></h3>
 
